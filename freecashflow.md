@@ -12,6 +12,7 @@ with the category levered free cash flow.
 | nflx | netflix | 14.54B |
 | wmt | walmart | 11.49B |
 | amzn | amazon | 9.27B |
+|    |       |      |
 | v  | visa  |  12B |
 | ma | mastercard | 7.7B |
 | pypl | paypal | 3.48B |
