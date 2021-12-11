@@ -19,4 +19,8 @@ with the category levered free cash flow.
 | ma | mastercard | 7.7B |
 | pypl | paypal | 3.48B |
 | sq | square | 521M |
+
+| docu | docusign | 753M |
+| spot | spotify | 467M |
 | ui | ubiquiti | 447M |
+| tdoc | teledoc | 265M |
